@@ -13,6 +13,8 @@ public enum CreditType {
         this.type = type;
     }
 
+
+
     public int getId() {
         return id;
     }
